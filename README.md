@@ -3,8 +3,9 @@ Soy un ingeniero mecánico y programador fullstack junior con conocimientos en H
 
 Como programador, tengo experiencia en HTML, CSS, JavaScript, React.js, Git y Node.js. He creado varias aplicaciones web utilizando estas tecnologías y me encanta aprender cosas nuevas cada día. A continuación, les muestro algunas fotos de mis habilidades:
 
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="Descripción de la imagen" width="500" height="300">
 
-https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png
+
 
 
 
