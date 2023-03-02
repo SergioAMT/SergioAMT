@@ -7,7 +7,7 @@ Como programador, tengo experiencia en HTML, CSS, JavaScript, React.js, Git y No
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="Descripción de la imagen" width="300" height="300">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="Descripción de la imagen" width="300" height="300">
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="Descripción de la imagen" width="300" height="300">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="Descripción de la imagen" width="300" height="300">
+![React.js](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582750_960_720.png)
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="Descripción de la imagen" width="300" height="300">
 
 
