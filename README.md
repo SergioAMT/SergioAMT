@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Sergio Morillo and I am passionate about both mechanical engineering and programming. In my spare time, I like to create fun projects that combine both fields. As a mechanical engineer, I am used to working on projects that require a high level of precision and detail, and I have found that these same principles apply to programming.<br><br>As a programmer, I have experience in HTML, CSS, JavaScript, React.js, Git and Node.js. I have created several web applications using these technologies and love learning new things every day.<br><br>
+My name is Sergio Morillo and I am passionate about both mechanical engineering and programming. In my spare time, I like to create fun projects that combine both fields. As a mechanical engineer, I am used to working on projects that require a high level of precision and detail, and I have found that these same principles apply to programming.
 
 
 ## 🌐 Socials:
